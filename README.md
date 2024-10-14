@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @PythonCjavascript
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1. 프로젝트 이름
+어셈블러 구현
+2. 프로젝트 목적
+앞으로 구현하게 될 어셈블러의 구현에 사용될 기본요소 모듈을 구현하기 위해서
+3. 프로그램 컴파일 방법 및 실행방법
 
-<!---
-PythonCjavascript/PythonCjavascript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+   
